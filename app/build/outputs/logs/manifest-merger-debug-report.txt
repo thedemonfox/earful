@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:1-105:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5e9d10ea4a04c803135819ae56ecce03\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f5196979d9b3ccc8198e485de9097bb2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\61cd7cc3567cd73b86921d7a793a99b9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6b0282c3cbad7c300a238d605e873fb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\73e62d055ba77a96be67eb4deb02ac3d\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5e9d10ea4a04c803135819ae56ecce03\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5e9d10ea4a04c803135819ae56ecce03\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f5196979d9b3ccc8198e485de9097bb2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f5196979d9b3ccc8198e485de9097bb2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\61cd7cc3567cd73b86921d7a793a99b9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\61cd7cc3567cd73b86921d7a793a99b9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6b0282c3cbad7c300a238d605e873fb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6b0282c3cbad7c300a238d605e873fb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\73e62d055ba77a96be67eb4deb02ac3d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\73e62d055ba77a96be67eb4deb02ac3d\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:14:22-64
+application
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:16:5-103:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5e9d10ea4a04c803135819ae56ecce03\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5e9d10ea4a04c803135819ae56ecce03\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f5196979d9b3ccc8198e485de9097bb2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f5196979d9b3ccc8198e485de9097bb2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\61cd7cc3567cd73b86921d7a793a99b9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\61cd7cc3567cd73b86921d7a793a99b9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6b0282c3cbad7c300a238d605e873fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6b0282c3cbad7c300a238d605e873fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\73e62d055ba77a96be67eb4deb02ac3d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\73e62d055ba77a96be67eb4deb02ac3d\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:17:9-66
+activity#com.transcendcode.earful.MainActivity
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:22:9-32:20
+	android:label
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:24:13-56
+	android:launchMode
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:25:13-43
+	android:noHistory
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:23:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.transcendcode.earful.PlaybackActivity
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:34:13-69
+activity#com.transcendcode.earful.LibraryActivity
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:38:13-68
+activity#com.transcendcode.earful.SettingsActivity
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:42:13-69
+activity#com.transcendcode.earful.FileChooser
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:47:13-46
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:46:13-64
+activity#com.dropbox.client2.android.AuthActivity
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:49:9-63:20
+	android:launchMode
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:52:13-44
+	android:configChanges
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:51:13-57
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:50:13-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:REDACTED
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:53:13-62:29
+data
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:56:17-51
+	android:scheme
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:56:23-48
+action#android.intent.action.VIEW
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.BROWSABLE
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:60:17-78
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:60:27-75
+category#android.intent.category.DEFAULT
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:61:17-76
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:61:27-73
+service#com.transcendcode.earful.DropSyncService
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:65:9-67:38
+	android:enabled
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:67:13-35
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:66:13-68
+service#com.transcendcode.earful.LibraryScanService
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:68:9-70:38
+	android:enabled
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:70:13-35
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:69:13-71
+service#com.transcendcode.earful.PlaybackService
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:71:9-75:19
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:71:18-73
+intent-filter#action:name:android.intent.action.ACTION_HEADSET_PLUG
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:72:13-74:29
+	android:priority
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:72:28-52
+action#android.intent.action.ACTION_HEADSET_PLUG
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:73:17-84
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:73:25-81
+receiver#com.transcendcode.earful.BatteryLevelReceiver
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:77:9-82:20
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:77:19-79
+intent-filter#action:name:android.intent.action.ACTION_BATTERY_LOW+action:name:android.intent.action.ACTION_BATTERY_OKAY
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:78:13-81:29
+action#android.intent.action.ACTION_BATTERY_LOW
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:79:17-83
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:79:25-80
+action#android.intent.action.ACTION_BATTERY_OKAY
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:80:17-84
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:80:25-81
+receiver#com.transcendcode.earful.MediaButtonIntentReceiver
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:83:9-87:20
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:83:19-84
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:84:13-86:29
+	android:priority
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:84:28-52
+action#android.intent.action.MEDIA_BUTTON
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:85:25-74
+receiver#com.transcendcode.earful.Alarm
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:process
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:90:13-38
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:89:13-58
+receiver#com.transcendcode.earful.MyReceiver
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:92:9-96:20
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:92:19-69
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:93:13-95:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:94:17-79
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:94:25-76
+activity#com.transcendcode.earful.SearchDirectories
+ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:98:9-101:20
+	android:label
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:100:13-70
+	android:name
+		ADDED from D:\Workspace\Android\earful1\app\src\main\AndroidManifest.xml:99:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5e9d10ea4a04c803135819ae56ecce03\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5e9d10ea4a04c803135819ae56ecce03\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f5196979d9b3ccc8198e485de9097bb2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f5196979d9b3ccc8198e485de9097bb2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\61cd7cc3567cd73b86921d7a793a99b9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\61cd7cc3567cd73b86921d7a793a99b9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6b0282c3cbad7c300a238d605e873fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a6b0282c3cbad7c300a238d605e873fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\73e62d055ba77a96be67eb4deb02ac3d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\73e62d055ba77a96be67eb4deb02ac3d\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\demonfox\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6d8acf0c18418b92c1bd529749422f50\AndroidManifest.xml:26:9-47

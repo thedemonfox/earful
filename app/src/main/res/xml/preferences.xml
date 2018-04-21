@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Audiobook Directories" >
+        <Preference
+            android:key="directories"
+            android:summary="List of directories to search for audiobooks"
+            android:title="Audiobook Search Paths..." />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Sleep Settings" >
+        <ListPreference
+            android:defaultValue="15"
+            android:entries="@array/timeEntries"
+            android:entryValues="@array/timeValues"
+            android:key="sleepTimePref"
+            android:summary="Time to wait to start sleeping"
+            android:title="Sleep Timeout" />
+        <ListPreference
+            android:defaultValue="5"
+            android:entries="@array/timeEntries"
+            android:entryValues="@array/timeValues"
+            android:key="fadeTimePref"
+            android:summary="Amount of time to fade out the audio"
+            android:title="Fade Length" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="sleepBeep"
+            android:summary="Play a beep when the fade out starts"
+            android:title="Beep on Fade-out" />
+
+        <ListPreference
+            android:defaultValue="Small"
+            android:entries="@array/gEntries"
+            android:entryValues="@array/gValues"
+            android:key="sleepGPref"
+            android:summary="Amount of shake to stop audio fading out"
+            android:title="Shake Threshold" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Dropbox Settings" >
+        <Preference
+            android:key="dropboxAcountPref"
+            android:summary="Tap to link device to Dropbox"
+            android:title="Dropbox Account" />
+        <Preference
+            android:key="dropDirectoryPref"
+            android:summary="Local path to syncing dropbox to"
+            android:title="Local sync path" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="dropDirectoryHidePref"
+            android:summary="Hide this directory from music players"
+            android:title="Hide" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="dropAutoSyncPref"
+            android:summary="Monitor and sync folders in the background"
+            android:title="Enable Autosync" />
+
+        <ListPreference
+            android:defaultValue="60"
+            android:entries="@array/syncTimeEntries"
+            android:entryValues="@array/syncTimeValues"
+            android:key="syncTimePref"
+            android:title="Sync Interval" />
+        <ListPreference
+            android:defaultValue="ac"
+            android:entries="@array/powerSourceEntries"
+            android:entryValues="@array/powerSourceValues"
+            android:key="powerSourcePref"
+            android:title="Power Source" />
+        <ListPreference
+            android:defaultValue="wifi"
+            android:entries="@array/internetConnectionEntries"
+            android:entryValues="@array/internetConnectionValues"
+            android:key="internetConnectionPref"
+            android:title="Internet Connection" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Options" >
+        <Preference
+            android:key="resetlibscan"
+            android:summary="Reset the library scan cache if it became corrupt"
+            android:title="Reset the Scan Cache" />
+        <Preference
+            android:key="resetdropscan"
+            android:summary="Reset the dropbox cache if it became corrupt"
+            android:title="Reset the Dropbox Cache" />
+        <Preference
+            android:key="resethelp"
+            android:summary="Show all tutorial screens again"
+            android:title="Reset tutorial screens" />
+    </PreferenceCategory>
+
+    <!--
+    <PreferenceCategory android:title="About" >
+        <Preference
+            android:key="whatsnew"
+            android:summary="What&apos;s new in this and recent versions"
+            android:title="What&apos;s New" />
+ 
+        <PreferenceScreen
+            android:key="support"
+            android:summary="Contact developer for help"
+            android:title="Support..." >
+            <Preference
+                android:key="version"
+                android:summary="Version x.x.x"
+                android:title="Earful Audiobook Player" />
+            <Preference
+                android:key="contact"
+                android:summary="Via email to earful@transcendcode.com"
+                android:title="Contact Developer" />
+
+            <CheckBoxPreference
+                android:defaultValue="false"
+                android:key="logging"
+                android:summary="If the developer asks for a log file"
+                android:title="Enable Logging" />
+
+            <Preference
+                android:key="sendlog"
+                android:summary="Send log file to developer"
+                android:title="Send Log File" />
+        </PreferenceScreen>
+
+        <Preference
+            android:key="website"
+            android:summary="open www.transcendcode.com"
+            android:title="About Developer" />
+    </PreferenceCategory>
+ -->
+</PreferenceScreen>

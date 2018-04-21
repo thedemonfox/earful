@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="timeEntries">
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+        <item>20 Minutes</item>
+        <item>25 Minutes</item>
+    </string-array>
+    <string-array name="timeValues">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+    <string-array name="gEntries">
+        <item>A little shake</item>
+        <item>Harder shake</item>
+    </string-array>
+    <string-array name="gValues">
+        <item>Small</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="syncTimeEntries">
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+        <item>2 Hours</item>
+        <item>4 Hours</item>
+        <item>8 Hours</item>
+        <item>1 Day</item>
+    </string-array>
+    <string-array name="syncTimeValues">
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>240</item>
+        <item>480</item>
+        <item>1440</item>
+    </string-array>
+    <string-array name="powerSourceEntries">
+        <item>Only When Plugged In / Charging</item>
+        <item>Anytime</item>
+    </string-array>
+    <string-array name="powerSourceValues">
+        <item>ac</item>
+        <item>battery</item>
+    </string-array>
+    <string-array name="internetConnectionEntries">
+        <item>Wifi Connection</item>
+        <item>Any Data Connection</item>
+    </string-array>
+    <string-array name="internetConnectionValues">
+        <item>wifi</item>
+        <item>cell</item>
+    </string-array>
+
+</resources>

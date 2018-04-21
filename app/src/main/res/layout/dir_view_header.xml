@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="30dp"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/TextViewHeader1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_marginLeft="10dip"
+        android:layout_weight="10"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:text="Path"
+        android:textStyle="bold" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/TextViewHeader2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="10dip"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:text="Hide from media players"
+        android:textStyle="bold" />
+
+</LinearLayout>

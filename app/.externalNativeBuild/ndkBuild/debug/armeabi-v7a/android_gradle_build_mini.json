@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\Workspace\\Android\\earful1\\Android.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Workspace\\Android\\earful1\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dD:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "aacdecoder-debug-armeabi-v7a": {
+      "artifactName": "aacdecoder",
+      "buildCommand": "D:\\Android\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Workspace\\Android\\earful1\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dD:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\debug\\lib D:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libaacdecoder.so",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libaacdecoder.so"
+    }
+  }
+}

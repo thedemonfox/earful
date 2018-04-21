@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\Workspace\\Android\\earful1\\Android.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Workspace\\Android\\earful1\\Android.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dD:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "aacdecoder-release-x86_64": {
+      "artifactName": "aacdecoder",
+      "buildCommand": "D:\\Android\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Workspace\\Android\\earful1\\Android.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dD:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\release\\lib D:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/release/obj/local/x86_64/libaacdecoder.so",
+      "abi": "x86_64",
+      "output": "D:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libaacdecoder.so"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "D:\\Workspace\\Android\\earful1\\Android.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Workspace\\Android\\earful1\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dD:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "aacdecoder-release-armeabi-v7a": {
+      "buildCommand": "D:\\Android\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Workspace\\Android\\earful1\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dD:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\release\\lib D:/Workspace/Android/earful1/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libaacdecoder.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "aacdecoder",
+      "files": [
+        {
+          "src": "D:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\aac-decoder\\aac-decoder.c",
+          "flags": "-gcc-toolchain D:/Android/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi15 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -mthumb -Os -DNDEBUG -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\aac-decoder -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\opencore-aacdec\\oscl -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\opencore-mp3dec\\oscl -ID:/Workspace/Android/earful1 -DANDROID -DAACD_LOGLEVEL_ERROR -D__ANDROID_API__\u003d15 -Wa,--noexecstack -Wformat -Werror\u003dformat-security --sysroot D:/Android/sdk/ndk-bundle/build//../sysroot -isystem D:/Android/sdk/ndk-bundle/build//../sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "D:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\aac-decoder\\aac-opencore-decoder.c",
+          "flags": "-gcc-toolchain D:/Android/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi15 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -mthumb -Os -DNDEBUG -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\aac-decoder -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\opencore-aacdec\\oscl -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\opencore-mp3dec\\oscl -ID:/Workspace/Android/earful1 -DANDROID -DAACD_LOGLEVEL_ERROR -D__ANDROID_API__\u003d15 -Wa,--noexecstack -Wformat -Werror\u003dformat-security --sysroot D:/Android/sdk/ndk-bundle/build//../sysroot -isystem D:/Android/sdk/ndk-bundle/build//../sysroot/usr/include/arm-linux-androideabi"
+        },
+        {
+          "src": "D:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\aac-decoder\\mp3-opencore-decoder.c",
+          "flags": "-gcc-toolchain D:/Android/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 -fpic -ffunction-sections -funwind-tables -fstack-protector-strong -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -fno-integrated-as -g -target armv7-none-linux-androideabi15 -march\u003darmv7-a -mfloat-abi\u003dsoftfp -mfpu\u003dvfpv3-d16 -mthumb -Os -DNDEBUG -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\aac-decoder -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\opencore-aacdec\\oscl -ID:\\Workspace\\Android\\earful1\\app\\src\\main\\jni\\opencore-mp3dec\\oscl -ID:/Workspace/Android/earful1 -DANDROID -DAACD_LOGLEVEL_ERROR -D__ANDROID_API__\u003d15 -Wa,--noexecstack -Wformat -Werror\u003dformat-security --sysroot D:/Android/sdk/ndk-bundle/build//../sysroot -isystem D:/Android/sdk/ndk-bundle/build//../sysroot/usr/include/arm-linux-androideabi"
+        }
+      ],
+      "output": "D:\\Workspace\\Android\\earful1\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libaacdecoder.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cCompilerExecutable": "D:\\Android\\sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
