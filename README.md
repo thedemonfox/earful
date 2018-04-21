@@ -33,3 +33,12 @@ Some Features:
 * Book Library - The app will maintain a separate library of your audiobooks. No mixing up your music and audiobooks again!
 * Help - Easy to dismiss tutorial overlays are shown to help new users find their way around the app!
 * No Ads! - This is the full application, no ads and no internet connection required to drain your battery! 
+
+![Image Preview of Earful Audiobook Player](docs/earful_preview.jpg)
+
+# Build Instructions
+
+* Download Android Studio <https://developer.android.com/studio/index.html>
+* Install Android SDK version 15 or 16 using the SDK Manager 
+* Get a application key from Dropbox <https://www.dropbox.com/developers/support> and replace the key called "REDACTED" in the source with your own, if you want the dropbox integration to work.
+* Build and Install
