@@ -34,7 +34,7 @@ Some Features:
 * Help - Easy to dismiss tutorial overlays are shown to help new users find their way around the app!
 * No Ads! - This is the full application, no ads and no internet connection required to drain your battery! 
 
-![Image Preview of Earful Audiobook Player](docs/earful_preview.jpg)
+![Image Preview of Earful Audiobook Player](docs/earful_preview_sm.png)
 
 # Build Instructions
 
